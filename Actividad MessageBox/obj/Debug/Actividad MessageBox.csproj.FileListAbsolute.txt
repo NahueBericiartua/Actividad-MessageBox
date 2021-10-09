@@ -1,0 +1,8 @@
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\bin\Debug\Actividad MessageBox.exe.config
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\bin\Debug\Actividad MessageBox.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\bin\Debug\Actividad MessageBox.pdb
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\obj\Debug\Actividad MessageBox.csprojResolveAssemblyReference.cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\obj\Debug\Actividad_MessageBox.MainForm.resources
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\obj\Debug\Actividad MessageBox.csproj.GenerateResource.Cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\obj\Debug\Actividad MessageBox.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad MessageBox\Actividad MessageBox\obj\Debug\Actividad MessageBox.pdb
